@@ -13,5 +13,3 @@ def random_id_generator(n):
             product_id += str(random.randint(0,9))
     return product_id
 
-i = random_id_generator(18)
-print(i)
