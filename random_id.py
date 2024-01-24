@@ -1,7 +1,5 @@
 import random
-import scyjava
 
-# def   
 def random_id_generator( n=18,upper= True, lower = True, number = True):
     alphabates =['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
